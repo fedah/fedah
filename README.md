@@ -1,17 +1,19 @@
 ### Hi there 👋
 
-My name is Franco Edah and I'm a computer science student at University of Maryland College Park. 
+My name is Franco Edah and I'm a computer science student at the University of Maryland College Park. 
 Here's some info about me!
 
-⚡ Work experience: <br>
+⚡ Work experience: <be>
+- **Software Engineer intern at Amazon** - Backend development on the UCTelephony team. [Seattle, WA. Summer 2023]
 - **Software Engineer intern at Visa** - Full Stack development on the B2B Connect Team. [Foster City, CA. Summer 2022]
+- **Software Engineer intern at Cvent** - Backend development on the Reporting team. [Tysons Corner, VA. Summer 2021 - Fall 2022]
 - **Technical TA at CodePath** - Technical Interview Prep (Advanced Session). [Remote, Summer 2022]
-- **Software Engineer intern at Cvent** - Backend development on the Reporting team. [Virgina, MD. Summer 2021 - Spring 2022]
+
 
 
 🌱 Interests:
-- Application development & ML
-- Algorithm & Quant Trading
+- Full Stack Dev & Distributed Systems
+- Machine Learning & Quant Trading
 - Music & Fashion 
 
 💬 Reach me by email or LinkedIn! franco.edah@outlook.com | https://www.linkedin.com/in/franco-edah
